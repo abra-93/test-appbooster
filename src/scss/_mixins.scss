@@ -1,0 +1,26 @@
+// Класс стилей кнопок
+@mixin _btn {
+  width: 100%;
+  padding: 13px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+// Media query
+
+@mixin _845 {
+  @media (max-width: 850px) {
+    @content;
+  }
+}
+@mixin _530 {
+  @media (max-width: 530px) {
+    @content;
+  }
+}
+@mixin _380 {
+  @media (max-width: 380px) {
+    @content;
+  }
+}
