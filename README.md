@@ -8,5 +8,5 @@
  * JavaScript
  * Webpack
 
- [Посмотреть можно **ТУТ**](https://alex-maskall.github.io/test-appbooster/dist/)
+ [Посмотреть можно **ТУТ**](https://abra-93.github.io/test-appbooster/dist/)
  
